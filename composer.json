@@ -9,7 +9,7 @@
             "email": "1228749740@qq.com"
         }
     ],
-    "minimum-stability": "1.0.0",
+    "minimum-stability": "dev",
     "require": {
         "ahri/ahri": "1.0.0"
     }
