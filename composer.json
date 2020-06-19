@@ -1,0 +1,14 @@
+{
+    "name": "ahri/ahri",
+    "description": "ahri demo",
+    "type": "php",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "ahri",
+            "email": "1228749740@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
