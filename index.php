@@ -8,3 +8,6 @@
 function index(){
     return true;
 }
+function home(){
+    return false;
+}
