@@ -6,7 +6,7 @@
  * Time: 9:19
  */
 function index(){
-    return true;
+    //this is ahri1111
 }
 function home(){
     return false;
